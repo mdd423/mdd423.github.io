@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://matthewdaunt.me" 
+title: Matt Daunt's Homepage
 theme: PaperMod
 
 enableInlineShortcodes: true
