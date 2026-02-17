@@ -19,7 +19,7 @@ menu:
           url: personal/
           weight: 3
         - name: Resume
-          url: Matthew_Daunt_Resume_2025.pdf
+          url: Matthew_Daunt_Resume.pdf
           weight: 4
 
 params:
